@@ -28,4 +28,4 @@ Os scripts SQL para criação do banco de dados, inserção de dados e consultas
 
 1. Clone o repositório para sua máquina local:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/Twilight0414/Script-Sql-Lanchonete.git
